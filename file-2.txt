@@ -1,1 +1,2 @@
 dog update file 2
+cat update file 2
